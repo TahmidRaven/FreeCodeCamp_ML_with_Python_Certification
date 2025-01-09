@@ -5,4 +5,4 @@ Machine Learning with Python Certification, I'll use the TensorFlow framework to
 
 Here’s a checklist of topics I plan to go through. I’ll update this as I complete each one:  
 
-- [x] TensonFlow introduction (rank, shape)
+- [x] TensonFlow introduction (rank, shape, reshape)
